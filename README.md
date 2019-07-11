@@ -1,6 +1,6 @@
-# orcamento_mobile
+# Orçamento do Rio Mobile
 
-A new Flutter project.
+### Acompanhe a execução orçamentária do município do Rio de Janeiro no seu próprio celular!
 
 ## Getting Started
 
